@@ -1,4 +1,4 @@
-# ROB-422
+# ROB_422
 EECS 465/ROB 422: Introduction to Algorithmic Robotics Fall 2023
 
 ## HW2 - Gradient Descent and Optimization ##
