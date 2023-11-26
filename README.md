@@ -36,3 +36,8 @@ Iterative Closest Point (ICP)
 
 ![](https://github.com/relifeto18/ROB_422/blob/main/HW4%20-%20Inverse%20Kinematics%20and%20Point%20Clouds/icp.gif)
 
+### HW5 - Kalman Filter ###
+
+Kalman Filter
+
+![](https://github.com/relifeto18/ROB_422/blob/main/HW5%20-%20Kalman%20Filter/Kalman%20Filter.gif)
